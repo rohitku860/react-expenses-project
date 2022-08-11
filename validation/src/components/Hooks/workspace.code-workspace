@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../react-expenses-project"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
